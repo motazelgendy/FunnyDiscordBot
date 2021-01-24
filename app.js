@@ -35,9 +35,12 @@ client.on('message', (message) => {
             case "3rs":
                 testConChannel(message, "3rs.mp3");
                 break;
+            case "tzy":
+                testconchaneel(message, "tzy.mp3");
+                break;
             case "help":
                 message.channel.send(message.author.toString() + "" + descrip() + "");
-                break;
+                break
             default:
                 message.channel.send(message.author.toString() + ' not valid command ya 3le2 enter *help ');
                 break;
