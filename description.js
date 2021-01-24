@@ -7,6 +7,7 @@ exports.descrip = () => {
     *7sb ==== > 7sb ya sharmoot
     *3rs ==== > msh 7ag enta 3rs 
     *tez ==== > teez  
+    *tzy ==== > tzy
     wait for more updates :D :D 
     Author https://fb.com/t0nxx `
 }
